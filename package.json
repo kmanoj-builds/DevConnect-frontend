@@ -1,0 +1,20 @@
+{
+  "name": "devconnect-frontend",
+  "version": "1.0.0",
+  "description": "DevConnect Frontend microservices",
+  "homepage": "https://github.com/kmanoj-builds/DevConnect-frontend#readme",
+  "bugs": {
+    "url": "https://github.com/kmanoj-builds/DevConnect-frontend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmanoj-builds/DevConnect-frontend.git"
+  },
+  "license": "ISC",
+  "author": "manoj",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
